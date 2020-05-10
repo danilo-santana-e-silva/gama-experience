@@ -1,18 +1,17 @@
-@import url("./topmenu.css");
+/*@import url("./topmenu.css");*/
 body{
     display: flex;
     flex-flow: column;
     margin: 0px;
 }
 
-main {
-    background-color: white;
+.jumbotron-with-background {
+    color:white;
+    background-image: url(../images/bgcarroussel.jpeg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-header #notificacao{
-    background-color: blueviolet;
-}
-header #menu{
-    background-color: cadetblue;
-}
+
 
