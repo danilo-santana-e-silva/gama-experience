@@ -1,17 +1,20 @@
+/*@import url("./topmenu.css");*/
 body{
     display: flex;
     flex-flow: column;
     margin: 0px;
 }
 
-
-main {
-
+.jumbotron-with-background {
+    color:gray;
+    background-image: url(../images/bgcarroussel.jpeg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-header #notificacao{
-    background-color: blueviolet;
+#rodape{
+    background-color: gray;
+    color: white
 }
-header #nav{
-    background-color: cadetblue;
-}
+
