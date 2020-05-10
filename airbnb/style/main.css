@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-flow: column;
+    margin: 0px;
+}
+
+
+main {
+
+}
+
+header #notificacao{
+    background-color: blueviolet;
+}
+header #nav{
+    background-color: cadetblue;
+}
