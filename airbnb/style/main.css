@@ -6,12 +6,15 @@ body{
 }
 
 .jumbotron-with-background {
-    color:white;
+    color:gray;
     background-image: url(../images/bgcarroussel.jpeg);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-
+#rodape{
+    background-color: gray;
+    color: white
+}
 
