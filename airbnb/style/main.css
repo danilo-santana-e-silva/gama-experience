@@ -1,17 +1,18 @@
+@import url("./topmenu.css");
 body{
     display: flex;
     flex-flow: column;
     margin: 0px;
 }
 
-
 main {
-
+    background-color: white;
 }
 
 header #notificacao{
     background-color: blueviolet;
 }
-header #nav{
+header #menu{
     background-color: cadetblue;
 }
+
